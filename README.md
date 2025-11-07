@@ -1,10 +1,14 @@
 ## Hi there 👋
 
 ### 💫 About Me  
-I'm Sagnik Sarkar, a developer passionate about building efficient systems, data analytics, and scalable backend solutions in Rust. I actively contribute to open-source and currently learning backend in Rust with React frontend.
+I'm Sagnik Sarkar, a developer passionate about building efficient systems, data analytics, and scalable backend solutions in Rust. I love contributing to open-source and currently learning backend in Rust with React frontend.
 
 ### 🌐 Socials  
 [LinkedIn](https://www.linkedin.com/in/sagnik-sarkar-10b3a0220) • [Email](mailto:sarkar.sagnik02@gmail.com)
+
+###📜 Certifications
+ Google Data Analytics Professional Certificate – Coursera
+ IBM Professional Data Analytics Certificate – Coursera
 
 ### 💻 Tech Stack  
 Rust • Golang • Python • C • Java • Node.js • AWS • PyTorch • TensorFlow • Keras • Scikit-learn • Pandas • NumPy • Matplotlib • SQL • Git • Bash Scripting • Excel
