@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### 💫 About Me  
-I'm Sagnik Sarkar, a developer passionate about building efficient systems, data analytics, and scalable backend solutions in Rust. I actively contribute to open-source and explore advancements in AI/ML and cloud technologies.
+I'm Sagnik Sarkar, a developer passionate about building efficient systems, data analytics, and scalable backend solutions in Rust. I actively contribute to open-source and currently learning backend in Rust with React frontend.
 
 ### 🌐 Socials  
 [LinkedIn](https://www.linkedin.com/in/sagnik-sarkar-10b3a0220) • [Email](mailto:sarkar.sagnik02@gmail.com)
