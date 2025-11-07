@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**SarkarSagnik/SarkarSagnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💫 About Me  
+I'm Sagnik Sarkar, a developer passionate about building efficient systems, data analytics, and scalable backend solutions in Rust. I actively contribute to open-source and explore advancements in AI/ML and cloud technologies.
 
-Here are some ideas to get you started:
+### 🌐 Socials  
+[LinkedIn](https://www.linkedin.com/in/sagnik-sarkar-10b3a0220) • [Email](mailto:sarkar.sagnik02@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack  
+Rust • Golang • Python • C • Java • Node.js • AWS • PyTorch • TensorFlow • Keras • Scikit-learn • Pandas • NumPy • Matplotlib • SQL • Git • Bash Scripting • Excel
+
+### 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SarkarSagnik&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SarkarSagnik&layout=compact&theme=radical)   
