@@ -6,9 +6,9 @@ I'm Sagnik Sarkar, a developer passionate about building efficient systems, data
 ### 🌐 Socials  
 [LinkedIn](https://www.linkedin.com/in/sagnik-sarkar-10b3a0220) • [Email](mailto:sarkar.sagnik02@gmail.com)
 
-###📜 Certifications
- Google Data Analytics Professional Certificate – Coursera
- IBM Professional Data Analytics Certificate – Coursera
+### 📜 Certifications
+<ul>Google Data Analytics Professional Certificate – Coursera</ul> 
+<ul>IBM Professional Data Analytics Certificate – Coursera</ul> 
 
 ### 💻 Tech Stack  
 Rust • Golang • Python • C • Java • Node.js • AWS • PyTorch • TensorFlow • Keras • Scikit-learn • Pandas • NumPy • Matplotlib • SQL • Git • Bash Scripting • Excel
