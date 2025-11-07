@@ -11,7 +11,7 @@ I'm Sagnik Sarkar, a developer passionate about building efficient systems, data
 <ul>IBM Professional Data Analytics Certificate – Coursera</ul> 
 
 ### 💻 Tech Stack  
-Rust • Golang • Python • C • Java • Node.js • AWS • PyTorch • TensorFlow • Keras • Scikit-learn • Pandas • NumPy • Matplotlib • SQL • Git • Bash Scripting • Excel
+Rust • Golang • Python • C • Java • AWS • PyTorch • TensorFlow • Keras • Scikit-learn • Pandas • NumPy • Matplotlib • SQL • Git • Bash Scripting • Excel
 
 ### 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SarkarSagnik&show_icons=true&theme=radical)  
